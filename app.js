@@ -1,5 +1,5 @@
-const priceForKm = 0.21
 const age = Number(prompt("What is ur age"))
+const priceForKm = 0.21
 const Rome = 1000
 const Paris = 2000
 const Berlin = 2500
